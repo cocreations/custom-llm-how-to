@@ -157,3 +157,8 @@ Want me to help you set up the Colab fine-tuning approach, or try a larger base 
 ---
 ---
 ---
+
+Other notes in this Google Doc : https://docs.google.com/document/d/1HAtqUd1559oMHsY_iKoPr3-9u9GdqwwMpDP4HqpVf7U/edit
+
+
+
